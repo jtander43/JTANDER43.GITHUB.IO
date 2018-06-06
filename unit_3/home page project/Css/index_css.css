@@ -1,0 +1,190 @@
+body{
+    height: 875px;
+    width: 1420px;
+    background-color: gray;
+}
+.divcontent{
+    border: 1px solid white;
+}
+#btfstart{
+    width: 1400px;
+    height: 300px;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    right: 10px;
+    background-image: url(melb_bnw.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    filter: blur(1px);
+}
+#div1{
+    height: 260px;
+    width: 590px;
+    position: absolute;
+    top: 310;
+    background-image: url(skatbnw_bowl.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#div1:hover{
+    filter: blur(3px);
+    transition: 2s;
+}
+#accesories{
+    font-size: 75px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px black;
+    position: absolute;
+    left: 250px;
+    top: 180;
+}
+#div2{
+    height: 550px;
+    width: 400px;
+    position: absolute;
+    top: 310;
+    left: 615px;
+    background-image: url(bnw_skaters.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#div2:hover{
+    filter: blur(3px);
+    transition: 2s;
+}
+#sale{
+    font-size: 75px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px black;
+    position: absolute;
+    left: 140;
+    top: 200;
+}
+#div3{
+    height: 260px;
+    width: 375px;
+    position: absolute;
+    top: 310;
+    left: 1032;
+    background-image: url(bnw_skateollie.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#div3:hover{
+    filter: blur(3px);
+    transition: 2s;
+}
+#pants{
+    font-size: 75px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px black;
+    position: absolute;
+    top: 180;
+}
+#div4{
+    height: 284px;
+    width: 284px;
+    position: absolute;
+    top: 575;
+    background-image: url(bnw_fixie.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#div4:hover{
+    filter: blur(3px);
+    transition: 2s;
+}
+#fixie{
+    font-size: 75px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px black;
+    position: absolute;
+    top: 190;
+}
+#div5{
+    height: 284px;
+    width: 284px;
+    position: absolute;
+    top: 575;
+    left: 314;
+    background-image: url(bnw_backpack.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#div5:hover{
+    filter: blur(3px);
+    transition: 2s;
+}
+#backpack{
+    font-size: 60px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px black;
+    position: absolute;
+    top: 200;
+}
+#div6{
+    height: 284px;
+    width: 375px;
+    position: absolute;
+    top: 575;
+    left: 1032;
+    background-image: url(skate_bnw_hoodie.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#div6:hover{
+    filter: blur(3px);
+    transition: 2s;
+}
+#coats{
+    font-size: 75px;
+    color: rgb(255, 255, 255);
+    text-shadow: 3px 3px black;
+    position: absolute;
+    top: 190;
+}
+#div7{
+    height: 300px;
+    width: 300px;
+    background-image: url(phully_hatchet24.png);
+    background-position: center;
+    position: absolute;
+    top: 0;
+    left: 550;
+}
+#tops{
+    position: absolute;
+    top: 260;
+    left: 580;
+    font-size: 20px;
+}
+#all{
+    position: absolute;
+    top: 260;
+    left: 655;
+    font-size: 20px;
+}
+#salenav{
+    position: absolute;
+    top: 260;
+    left: 715;
+    font-size: 20px;
+}
+#contact{
+    position: absolute;
+    top: 260;
+    left: 780;
+    font-size: 20px;
+}
+.navbar{
+    text-decoration: none;
+    color: white;
+}
