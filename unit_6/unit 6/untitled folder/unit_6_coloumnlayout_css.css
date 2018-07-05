@@ -1,0 +1,139 @@
+body{
+    background: linear-gradient(to bottom right, black, white);
+}
+.wrapper{
+    width: 100%;
+    height: 100%;
+}
+
+header{
+    height: 25%;
+    width: 98%;
+    border: 1px solid black;
+    margin: 1%;
+    background-image: url(melb_bnw.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+img{
+    width: 400px;
+    position: absolute;
+    left: 504;
+    top: -160;
+}
+
+li{
+    text-decoration: none;
+    display: inline;
+    line-height: 1.5em;
+    width: 100px;
+    margin: 10%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    display: inline;
+}
+
+#nav{
+    font-family: 'Coda Caption';
+    height: 3%;
+    width: 98%;
+    margin: 1% 0 0% 1%;
+}
+
+#section1{
+    font-family: 'Permanent Marker';
+    float: left;
+    clear: right;
+    width: 30%;
+    height: 65%;
+    margin: 1%;
+}
+
+.sec1divs{
+    width: 100%;
+    background-color: red;
+}
+
+#div1{
+    background-image: url(bnw_backpack.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 50%;
+    text-align: center;
+    line-height: 15.0em;
+}
+
+#div2{
+    margin-top: 4%; 
+    height: 47%;
+    background-image: url(bnw_skateollie.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    line-height: 15.0em;
+    text-align: center;
+}
+
+#div3{
+    font-family: 'Permanent Marker';
+    float: left;
+    width: 33%;
+    height: 65%;
+    margin: 1%;
+    background-image: url(bnw_skaters.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    line-height: 30.0em;
+}
+
+#section2{
+    font-family: 'Permanent Marker';
+    font-size: 50px;
+    float: right;
+    width: 30%;
+    height: 65%;
+    margin: 1%;
+    
+}
+
+.sec2divs{
+    width: 100%;
+    background-color: blue;
+
+}
+
+#div4{
+    height: 47%; 
+    background-image: url(skatbnw_bowl.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    line-height: 5.0em;
+}
+
+#div5{
+    height: 50%;
+    margin-top: 4%;
+    background-image: url(bnw_fixie.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    line-height: 5.0em;
+}
+
+span{
+    color: white;
+    font-size: 50px;
+    text-shadow: 2px 2px 2px black;
+}
+
+span:hover{
+    color: red;
+}
